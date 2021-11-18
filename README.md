@@ -11,7 +11,7 @@ Das WIFIOLED besteht aus einem WLAN/WIFI-Modul, einem wiederaufladbaren Akku, et
 Hier auf github soll die Möglichkeit gegeben werden, eine Bedienungsanleitung dazu zu bekommen. 
 Auch neue selbstinstallierbare Versionen werden hier publiziert.  
 
-<img src="imgs/wifioled.jpg" width="100" />
+<img src="imgs/wifioled.png" width="100" />
 
 <hl>
 
@@ -22,22 +22,22 @@ Das WIFIOLED hat verschiedene Betriebsmodi, die über den Taster neben der USB-B
 <h3>Modus 1: User</h3>
 Das gezeichnete und abgespeicherte Bild wird hier dargestellt. (WLAN inaktiv)
 
-<img src="imgs/wifioled.jpg" width="100" />
+<img src="imgs/user.png" width="100" />
 
 <h3>Modus 2: WIFI-QR-Code</h3> 
 Der QR-Code für das Verbinden auf des WLANs des Moduls wird angezeigt (WLAN aktiv).
 
-<img src="imgs/wifiqr.jpg" width="100" />
+<img src="imgs/wifiqr.png" width="100" />
 
 <h3>Modus 4: QR-Code für Bedienungsanleitung</h3>
 
 Der WIFI-SSID/Password für das Verbinden auf des WLANs des Moduls wird angezeigt (WLAN aktiv)
 
-<img src="imgs/wifissid.jpg" width="100" />
+<img src="imgs/wifissid.png" width="100" />
 
 <h3>Modus 5: Faszination Technik Logoseite</h3>
 
-<img src="imgs/fasztech.jpg" width="100" />
+<img src="imgs/fasztech.png" width="100" />
 
 <h3>Ausschalten des WIFIOLED</h3>
 
