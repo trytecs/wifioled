@@ -11,7 +11,7 @@ Hier auf github soll die Möglichkeit gegeben werden, eine Bedienungsanleitung d
 Auch neue selbst installierbare Versionen werden hier publiziert.  
 
 <div align="left">
-<img src="imgs/wifioled.png" width="100" align="left"/> <img src="imgs/hardware.png" width="100" />
+<img src="imgs/wifioled.png" height="200" align="left"/> <img src="imgs/hardware.png" heigth="200" />
 </div>
 
 <hl>
