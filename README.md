@@ -29,16 +29,16 @@ Der QR-Code für das Verbinden auf des WLANs des Moduls wird angezeigt (WLAN akt
 
 <img src="imgs/wifiqr.png" width="100" />
 
-<a href="README-ANDROID-QR.md">WLAN verbinden mit neuerem Android-Gerät Handy/Tablet</a>
-<a href="README-IPHONE-QR.md">WLAN verbinden mit neuerem Apple-Gerät Handy/Tablet</a>
+<a href="README-ANDROID-QR.md">WLAN verbinden mit neuerem Android-Gerät Handy/Tablet</a><br>
+<a href="README-IPHONE-QR.md">WLAN verbinden mit neuerem Apple-Gerät Handy/Tablet</a><br>
 
 <h3>Modus 3: WIFI-SSID/Passwort</h3> 
 
 Der WIFI-SSID/Password für das Verbinden auf des WLANs des Moduls wird angezeigt (WLAN aktiv)
 
-<a href="README-ANDROID.md">WLAN verbinden mit Android-Gerät Handy/Tablet</a>
-<a href="README-IPHONE.md">WLAN verbinden mit Apple-Gerät Handy/Tablet</a>
-<a href="README-PC.md">WLAN verbinden mit Windows 10 PC/Tablet</a>
+<a href="README-ANDROID.md">WLAN verbinden mit Android-Gerät Handy/Tablet</a><br>
+<a href="README-IPHONE.md">WLAN verbinden mit Apple-Gerät Handy/Tablet</a><br>
+<a href="README-PC.md">WLAN verbinden mit Windows 10 PC/Tablet</a><br>
 
 <img src="imgs/wifissid.png" width="100" />
 
