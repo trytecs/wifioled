@@ -5,8 +5,7 @@
 Das Gadget WIFIOLED wurde für die Berufsmesse Zürich im Rahmen von <a href="https://www.faszination-technik.ch">Faszination Technik</a> z.T. durch Elektroniker-Lernende entwickelt und interessierten Schülern zum Experimentieren abgegeben. 
 
 Das WIFIOLED besteht aus einem WLAN/WIFI-Modul, einem wiederaufladbaren Akku, etwas Elektronik und einer OLED-Anzeige.
-Über einen Internet-Browser (Chrome, Mozilla, Edge, Safari..) lässt sich der Displayinhalt neu definieren.
-
+Über einen Internet-Browser (Chrome, Mozilla, Edge, Safari..) lässt sich der Displayinhalt neu zeichnen/malen.
 
 Hier auf github soll die Möglichkeit gegeben werden, eine Bedienungsanleitung dazu zu bekommen. 
 Auch neue selbst installierbare Versionen werden hier publiziert.  
