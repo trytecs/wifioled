@@ -29,11 +29,22 @@ Der QR-Code für das Verbinden auf des WLANs des Moduls wird angezeigt (WLAN akt
 
 <img src="imgs/wifiqr.png" width="100" />
 
-<h3>Modus 4: QR-Code für Bedienungsanleitung</h3>
+<a href="README-ANDROID-QR.md">WLAN verbinden mit neuerem Android-Gerät Handy/Tablet</a>
+<a href="README-IPHONE-QR.md">WLAN verbinden mit neuerem Apple-Gerät Handy/Tablet</a>
+
+<h3>Modus 3: WIFI-SSID/Passwort</h3> 
 
 Der WIFI-SSID/Password für das Verbinden auf des WLANs des Moduls wird angezeigt (WLAN aktiv)
 
+<a href="README-ANDROID.md">WLAN verbinden mit Android-Gerät Handy/Tablet</a>
+<a href="README-IPHONE.md">WLAN verbinden mit Apple-Gerät Handy/Tablet</a>
+<a href="README-PC.md">WLAN verbinden mit Windows 10 PC/Tablet</a>
+
 <img src="imgs/wifissid.png" width="100" />
+
+<h3>Modus 4: QR-Code für Bedienungsanleitung im Internet</h3>
+
+<img src="imgs/usermanual.png" width="100" />
 
 <h3>Modus 5: Faszination Technik Logoseite</h3>
 
@@ -48,6 +59,8 @@ Wird die Taste länger als 3 Sekunden gedrückt erscheint POWER OFF auf der Anze
 Das WIFIOLED kann mittels eines gewöhnlichen MicroUSB-Ladegerät oder einem PC/Notebook über ein Micro-USB Kabel aufgeladen werden.
 
 Beim Einstecken des Ladesteckers wird automatisch eine Seite mit der Animation des Batterieaufladens angezeigt. Mit Abtippen des Taster kann der Modus wieder beliebig umgeschaltet werden.
+
+
 
 
 
