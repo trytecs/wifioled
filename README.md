@@ -19,15 +19,38 @@ Auch neue selbstinstallierbare Versionen werden hier publiziert.
 
 Das WIFIOLED hat verschiedene Betriebsmodi, die über den Taster neben der USB-Buchse umgeschaltet werden können. 
 
-
-Modus 1: User
+<h3>Modus 1: User</h3>
 Das gezeichnete und abgespeicherte Bild wird hier dargestellt. (WLAN inaktiv)
 
+<img src="imgs/wifioled.jpg" width="100" />
 
-Modus 2: WIFI-QR-Code 
-Der QR-Code für das Verbinden auf des WLANs des Moduls wird angezeigt (WLAN aktiv)
+<h3>Modus 2: WIFI-QR-Code</h3> 
+Der QR-Code für das Verbinden auf des WLANs des Moduls wird angezeigt (WLAN aktiv).
+
+<img src="imgs/wifiqr.jpg" width="100" />
+
+<h3>Modus 4: QR-Code für Bedienungsanleitung</h3>
 
 Der WIFI-SSID/Password für das Verbinden auf des WLANs des Moduls wird angezeigt (WLAN aktiv)
+
+<img src="imgs/wifissid.jpg" width="100" />
+
+<h3>Modus 5: Faszination Technik Logoseite</h3>
+
+<img src="imgs/fasztech.jpg" width="100" />
+
+<h3>Ausschalten des WIFIOLED</h3>
+
+Wird die Taste länger als 3 Sekunden gedrückt erscheint POWER OFF auf der Anzeige und das Modul wird ausgeschaltet (nur wenn nicht an Micro-USB angeschlossen). Das Modul schaltet sich nach ca. 15 min selbst aus. Das Auschalten ist während dem Aufladen nicht möglich 
+
+<h3>Aufladen des WIFIOLED</h3>
+
+Das WIFIOLED kann mittels eines gewöhnlichen MicroUSB-Ladegerät oder einem PC/Notebook über ein Micro-USB Kabel aufgeladen werden.
+
+Beim Einstecken des Ladesteckers wird automatisch eine Seite mit der Animation des Batterieaufladens angezeigt. Mit Abtippen des Taster kann der Modus wieder beliebig umgeschaltet werden.
+
+
+
 
 
 
