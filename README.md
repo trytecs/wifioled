@@ -4,7 +4,8 @@
 
 Das Gadget WIFIOLED wurde für die Berufsmesse Zürich im Rahmen von <a href="https://www.faszination-technik.ch">Faszination Technik</a> z.T. durch Elektroniker-Lernende entwickelt und interessierten Schülern zum Experimentieren abgegeben. Hier auf github soll die Möglichkeit gegeben werden, eine Bedienungsanleitung dazu zu bekommen. Auch neue Versionen werden hier publiziert.  
 
-![imgssds](imgs/wifioled.jpg)
+<img src="imgs/wifioled.png" width="100" />
+
 
 <h2>Bedienung</h2>
 
