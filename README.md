@@ -9,7 +9,7 @@ Das WIFIOLED besteht aus einem WLAN/WIFI-Modul, einem wiederaufladbaren Akku, et
 
 
 Hier auf github soll die Möglichkeit gegeben werden, eine Bedienungsanleitung dazu zu bekommen. 
-Auch neue selbstinstallierbare Versionen werden hier publiziert.  
+Auch neue selbst installierbare Versionen werden hier publiziert.  
 
 <img src="imgs/wifioled.png" width="100" />
 
@@ -56,18 +56,9 @@ Wird die Taste länger als 3 Sekunden gedrückt erscheint POWER OFF auf der Anze
 
 <h3>Aufladen des WIFIOLED</h3>
 
-Das WIFIOLED kann mittels eines gewöhnlichen MicroUSB-Ladegerät oder einem PC/Notebook über ein Micro-USB Kabel aufgeladen werden.
+Das WIFIOLED kann mittels eines gewöhnlichen MicroUSB-Ladegerät (z.b. vom Handy) oder einem PC/Notebook über ein Micro-USB Kabel aufgeladen werden.
 
-Beim Einstecken des Ladesteckers wird automatisch eine Seite mit der Animation des Batterieaufladens angezeigt. Mit Abtippen des Taster kann der Modus wieder beliebig umgeschaltet werden.
-
-
-
-
-
-
-
-
-
+Beim Einstecken des Ladesteckers wird automatisch am OLED eine Seite mit der Animation des Batterieaufladens angezeigt. Mit Abtippen des Taster kann der Modus wieder beliebig umgeschaltet werden.
 
 
 Und viel Spass mit dem WIFIOLED!
