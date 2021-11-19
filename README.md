@@ -39,13 +39,13 @@ Der WIFI-SSID/Password für das Verbinden auf das WLAN des Moduls wird angezeigt
 Zum Verbinden auf das WLAN des WIFIOLED kann ein Handy/Tablet/PC verwendet werden (-> siehe in Anleitung des Gerätes)	
 Ist das Gerät mit dem WLAN mit dem WIFIOLED verbunden, dann 
 
-den Internet-Browser auf dem Gerät öffnen und in die Adresszeile
+dann den Internet-Browser des Gerätes öffnen und in die Adresszeile
 
 <b>esp.local</b> 
 
 oder 
 
-<b>172.217.28.1</b>    
+<b>172.217.28.1</b>   
 
 eingeben(das was funktioniert!). 
 
@@ -62,6 +62,8 @@ Gefüllte Ellipsenmodus<br>
 Sternmodus<br>
 Speichern/Übertragen auf WIFIOLED<br>
 Löschen des Bildes</ul>
+
+Nach dem Speichern wird das Bild auf das WIFIOLED übertragen und dort angezeigt.
 
 <h3>Modus 4: QR-Code für Bedienungsanleitung im Internet</h3>
 
