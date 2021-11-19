@@ -8,10 +8,10 @@ Das WIFIOLED besteht aus einem WLAN/WIFI-Modul, einem wiederaufladbaren Akku, et
 Über einen Internet-Browser (Chrome, Mozilla, Edge, Safari..) lässt sich der Displayinhalt neu zeichnen/malen.
 
 Hier auf github soll die Möglichkeit gegeben werden, eine Bedienungsanleitung dazu zu bekommen. 
-Auch neue selbst installierbare Versionen werden hier publiziert.  
+Auch Neue, selbst installierbare Versionen werden hier publiziert.  
 
 <div align="left">
-<img src="imgs/wifioled.png" height="200" align="left"/> <img src="imgs/hardware.png" heigth="200" />
+<img src="imgs/wifioled.png" width="200" align="left"/> <img src="imgs/hardware.png" width="200" />
 </div>
 
 <hl>
@@ -23,27 +23,50 @@ Das WIFIOLED hat verschiedene Betriebsmodi, die über den Taster neben der USB-B
 <h3>Modus 1: User</h3>
 Das gezeichnete und abgespeicherte Bild wird hier dargestellt. (WLAN inaktiv)
 
-<img src="imgs/user.png" width="100" />
+<img src="imgs/user.png" width="200" />
 
 <h3>Modus 2: WIFI-QR-Code</h3> 
 Der QR-Code für das Verbinden auf des WLANs des Moduls wird angezeigt (WLAN aktiv).
 
-<img src="imgs/wifiqr.png" width="100" />
-
-<a href="README-ANDROID-QR.md">-> WLAN verbinden mit neuerem Android-Gerät Handy/Tablet</a><br>
-<a href="README-IPHONE-QR.md">-> WLAN verbinden mit neuerem Apple-Gerät Handy/Tablet</a><br>
+<img src="imgs/wifiqr.png" width="200" />
 
 <h3>Modus 3: WIFI-SSID/Passwort</h3> 
 
 Der WIFI-SSID/Password für das Verbinden auf das WLAN des Moduls wird angezeigt (WLAN aktiv)
 
-<img src="imgs/wifissid.png" width="100" />
+<img src="imgs/wifissid.png" width="200" />
+	
+Zum Verbinden auf das WLAN des WIFIOLED kann ein Handy/Tablet/PC verwendet werden (-> siehe in Anleitung des Ger�tes)	
+Ist das Gerät mit dem WLAN mit dem WIFIOLED verbunden, dann 
 
-<a href="README-ANDROID.md">-> WLAN verbinden mit Android-Gerät Handy/Tablet</a><br>
-<a href="README-IPHONE.md">-> WLAN verbinden mit Apple-Gerät Handy/Tablet</a><br>
-<a href="README-PC.md">-> WLAN verbinden mit Windows 10 PC/Tablet</a><br>
+den Internet-Browser auf dem Gerät öffnen und in die Adresszeile
+
+<b>esp.local</b> 
+
+oder 
+
+<b>172.217.28.1</b>    
+
+eingeben(das was funktioniert!). 
+
+Daraufhin wird die Webseite zum Zeichnen geöffnet. d.h. auf der schwarzen Fläche kann man Zeichnen.
+
+Folgende Werkzeuge stehen zur Verfügung:
+
+<img src="imgs/draw.png" width="20" /> Freihandmodus<br>
+Linienmodus<br>
+Rechteckmodus<br>
+Gefülltes Rechteckmodus<br>
+Ellipsenmodus<br>
+Gefüllte Ellipsenmodus<br>
+Sternmodus<br>
+Speichern/Übertragen auf WIFIOLED<br>
+Löschen des Bildes<br>
+
 
 <h3>Modus 4: QR-Code für Bedienungsanleitung im Internet</h3>
+
+Link auf diese Seite
 
 <img src="imgs/usermanual.png" width="100" />
 
