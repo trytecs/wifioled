@@ -53,7 +53,7 @@ Daraufhin wird die Webseite zum Zeichnen geöffnet. d.h. auf der schwarzen Fläc
 
 Folgende Werkzeuge stehen zur Verfügung:
 
-<img src="imgs/draw.png" width="20" align="left"/> <ul>Freihandmodus<br>
+<img src="imgs/draw.png" width="25" align="left"/> <ul>Freihandmodus<br>
 Linienmodus<br>
 Rechteckmodus<br>
 Gefülltes Rechteckmodus<br>
