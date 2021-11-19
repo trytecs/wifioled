@@ -14,6 +14,8 @@ Auch Neue, selbst installierbare Versionen werden hier publiziert.
 <img src="imgs/hardware.png" width="200" align="left"/> <img src="imgs/wifioled.png" width="200" />
 <br>
 <br>
+<br>
+<br>
 <hl>
 <h2>Bedienung</h2>
 
