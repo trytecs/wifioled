@@ -12,7 +12,7 @@ Auch Neue, selbst installierbare Versionen werden hier publiziert.
 
 <div>
 <img src="imgs/hardware.png" width="200" align="left"/> <img src="imgs/wifioled.png" width="200" />
-</div>
+</div><br>
 
 <hl>
 
