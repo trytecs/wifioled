@@ -10,11 +10,11 @@ Das WIFIOLED besteht aus einem WLAN/WIFI-Modul, einem wiederaufladbaren Akku, et
 Hier auf github soll die Möglichkeit gegeben werden, eine Bedienungsanleitung dazu zu bekommen. 
 Auch Neue, selbst installierbare Versionen werden hier publiziert.  
 
+
 <img src="imgs/hardware.png" width="200" align="left"/> <img src="imgs/wifioled.png" width="200" />
 <br>
-
+<br>
 <hl>
-
 <h2>Bedienung</h2>
 
 Das WIFIOLED hat verschiedene Betriebsmodi, die über den Taster neben der USB-Buchse umgeschaltet werden können. 
