@@ -53,7 +53,7 @@ Daraufhin wird die Webseite zum Zeichnen geöffnet. d.h. auf der schwarzen Fläc
 
 Folgende Werkzeuge stehen zur Verfügung:
 
-<img src="imgs/draw.png" width="20" /> Freihandmodus<br>
+<img src="imgs/draw.png" width="20" /> <div>Freihandmodus<br>
 Linienmodus<br>
 Rechteckmodus<br>
 Gefülltes Rechteckmodus<br>
@@ -61,7 +61,7 @@ Ellipsenmodus<br>
 Gefüllte Ellipsenmodus<br>
 Sternmodus<br>
 Speichern/Übertragen auf WIFIOLED<br>
-Löschen des Bildes<br>
+Löschen des Bildes<br></div>
 
 
 <h3>Modus 4: QR-Code für Bedienungsanleitung im Internet</h3>
