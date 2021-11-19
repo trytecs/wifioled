@@ -36,7 +36,7 @@ Der WIFI-SSID/Password für das Verbinden auf das WLAN des Moduls wird angezeigt
 
 <img src="imgs/wifissid.png" width="200" />
 	
-Zum Verbinden auf das WLAN des WIFIOLED kann ein Handy/Tablet/PC verwendet werden (-> siehe in Anleitung des Ger�tes)	
+Zum Verbinden auf das WLAN des WIFIOLED kann ein Handy/Tablet/PC verwendet werden (-> siehe in Anleitung des Gerätes)	
 Ist das Gerät mit dem WLAN mit dem WIFIOLED verbunden, dann 
 
 den Internet-Browser auf dem Gerät öffnen und in die Adresszeile
@@ -53,7 +53,7 @@ Daraufhin wird die Webseite zum Zeichnen geöffnet. d.h. auf der schwarzen Fläc
 
 Folgende Werkzeuge stehen zur Verfügung:
 
-<img src="imgs/draw.png" width="20" /> <ul>Freihandmodus<br>
+<img src="imgs/draw.png" width="20" align="left"/> <ul>Freihandmodus<br>
 Linienmodus<br>
 Rechteckmodus<br>
 Gefülltes Rechteckmodus<br>
@@ -62,7 +62,6 @@ Gefüllte Ellipsenmodus<br>
 Sternmodus<br>
 Speichern/Übertragen auf WIFIOLED<br>
 Löschen des Bildes</ul>
-
 
 <h3>Modus 4: QR-Code für Bedienungsanleitung im Internet</h3>
 
