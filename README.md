@@ -10,7 +10,7 @@ Das WIFIOLED besteht aus einem WLAN/WIFI-Modul, einem wiederaufladbaren Akku, et
 Hier auf github soll die Möglichkeit gegeben werden, eine Bedienungsanleitung dazu zu bekommen. 
 Auch Neue, selbst installierbare Versionen werden hier publiziert.  
 
-<div align="left">
+<div>
 <img src="imgs/hardware.png" width="200" align="left"/> <img src="imgs/wifioled.png" width="200" />
 </div>
 
